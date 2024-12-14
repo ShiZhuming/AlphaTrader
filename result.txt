@@ -1,0 +1,421 @@
+55
+11 55
+Date: 20241001
+Step: 11
+Action: Buy 0.0
+Price: 226.21
+Balance: 10000.0
+Shares held: 0.0
+Avg cost for held shares: 0 
+Net worth: 10000.0
+Profit: 0.0
+12 55
+Date: 20241002
+Step: 12
+Action: Buy 1.0
+Price: 226.78
+Balance: 0.0
+Shares held: 44.20671057866584
+Avg cost for held shares: 226.21 
+Net worth: 10025.19782502984
+Profit: 25.197825029839805
+13 55
+Date: 20241003
+Step: 13
+Action: Sell 0.0
+Price: 225.67
+Balance: 0.0
+Shares held: 44.20671057866584
+Avg cost for held shares: 226.21 
+Net worth: 9976.12837628752
+Profit: -23.87162371248087
+14 55
+Date: 20241004
+Step: 14
+Action: Hold 0
+Price: 226.8
+Balance: 0.0
+Shares held: 44.20671057866584
+Avg cost for held shares: 226.21 
+Net worth: 10026.081959241414
+Profit: 26.081959241413642
+15 55
+Date: 20241007
+Step: 15
+Action: Sell 0.22509346902370453
+Price: 221.69
+Balance: 2256.80556892163
+Shares held: 34.25606874038705
+Avg cost for held shares: 226.03861785077916 
+Net worth: 9851.033447978036
+Profit: -148.96655202196416
+16 55
+Date: 20241008
+Step: 16
+Action: Sell 0.0
+Price: 225.77
+Balance: 2256.80556892163
+Shares held: 34.25606874038705
+Avg cost for held shares: 226.03861785077916 
+Net worth: 9990.798208438815
+Profit: -9.201791561185019
+17 55
+Date: 20241009
+Step: 17
+Action: Sell 0.5520002841949463
+Price: 229.54
+Balance: 6525.971703896738
+Shares held: 15.346709060291783
+Avg cost for held shares: 226.36959379727833 
+Net worth: 10048.655301596114
+Profit: 48.65530159611444
+18 55
+Date: 20241010
+Step: 18
+Action: Buy 0.3106537163257599
+Price: 229.04
+Balance: 4498.654341444465
+Shares held: 24.178796550281646
+Avg cost for held shares: 227.5276872078835 
+Net worth: 10036.565903320974
+Profit: 36.56590332097403
+19 55
+Date: 20241011
+Step: 19
+Action: Sell 0.08932165801525116
+Price: 227.55
+Balance: 4993.309784093104
+Shares held: 22.019106353597053
+Avg cost for held shares: 227.37935570618652 
+Net worth: 10003.757434854113
+Profit: 3.757434854112944
+20 55
+Date: 20241014
+Step: 20
+Action: Buy 0.0
+Price: 231.3
+Balance: 4993.309784093104
+Shares held: 22.019106353597053
+Avg cost for held shares: 227.37935570618652 
+Net worth: 10086.329083680102
+Profit: 86.32908368010249
+21 55
+Date: 20241015
+Step: 21
+Action: Buy 0.0
+Price: 233.85
+Balance: 4993.309784093104
+Shares held: 22.019106353597053
+Avg cost for held shares: 227.37935570618652 
+Net worth: 10142.477804881775
+Profit: 142.47780488177523
+22 55
+Date: 20241016
+Step: 22
+Action: Sell 0.0
+Price: 231.78
+Balance: 4993.309784093104
+Shares held: 22.019106353597053
+Avg cost for held shares: 227.37935570618652 
+Net worth: 10096.89825472983
+Profit: 96.8982547298292
+23 55
+Date: 20241017
+Step: 23
+Action: Sell 0.22263269126415253
+Price: 232.15
+Balance: 6129.535420415658
+Shares held: 17.11693344686414
+Avg cost for held shares: 226.11904121724672 
+Net worth: 10103.231520105168
+Profit: 103.23152010516787
+24 55
+Date: 20241018
+Step: 24
+Action: Hold 0
+Price: 235.0
+Balance: 6129.535420415658
+Shares held: 17.11693344686414
+Avg cost for held shares: 226.11904121724672 
+Net worth: 10152.014780428732
+Profit: 152.01478042873168
+25 55
+Date: 20241021
+Step: 25
+Action: Buy 0.0
+Price: 236.48
+Balance: 6129.535420415658
+Shares held: 17.11693344686414
+Avg cost for held shares: 226.11904121724672 
+Net worth: 10177.34784193009
+Profit: 177.34784193009
+26 55
+Date: 20241022
+Step: 26
+Action: Buy 0.028554778546094894
+Price: 235.86
+Balance: 5954.507893895245
+Shares held: 17.857070145614202
+Avg cost for held shares: 226.54848041230056 
+Net worth: 10166.27645843981
+Profit: 166.27645843981009
+27 55
+Date: 20241023
+Step: 27
+Action: Buy 0.0
+Price: 230.76
+Balance: 5954.507893895245
+Shares held: 17.857070145614202
+Avg cost for held shares: 226.54848041230056 
+Net worth: 10075.205400697178
+Profit: 75.20540069717754
+28 55
+Date: 20241024
+Step: 28
+Action: Sell 0.0
+Price: 230.57
+Balance: 5954.507893895245
+Shares held: 17.857070145614202
+Avg cost for held shares: 226.54848041230056 
+Net worth: 10071.81255736951
+Profit: 71.81255736951061
+29 55
+Date: 20241025
+Step: 29
+Action: Buy 0.0
+Price: 231.41
+Balance: 5954.507893895245
+Shares held: 17.857070145614202
+Avg cost for held shares: 226.54848041230056 
+Net worth: 10086.812496291826
+Profit: 86.81249629182639
+30 55
+Date: 20241028
+Step: 30
+Action: Buy 0.18552479147911072
+Price: 233.4
+Balance: 4849.799058519611
+Shares held: 22.630886468917577
+Avg cost for held shares: 227.57398162700963 
+Net worth: 10131.847960364974
+Profit: 131.84796036497391
+31 55
+Date: 20241029
+Step: 31
+Action: Hold 0
+Price: 233.67
+Balance: 4849.799058519611
+Shares held: 22.630886468917577
+Avg cost for held shares: 227.57398162700963 
+Net worth: 10137.958299711581
+Profit: 137.95829971158128
+32 55
+Date: 20241030
+Step: 32
+Action: Buy 0.34205472469329834
+Price: 230.1
+Balance: 3190.902376739868
+Shares held: 29.730200380757964
+Avg cost for held shares: 229.02965792545177 
+Net worth: 10031.821484352275
+Profit: 31.821484352274638
+33 55
+Date: 20241031
+Step: 33
+Action: Buy 0.16692300140857697
+Price: 225.91
+Balance: 2658.267374812687
+Shares held: 32.04499830308382
+Avg cost for held shares: 229.10697500273508 
+Net worth: 9897.552941462352
+Profit: -102.44705853764754
+34 55
+Date: 20241101
+Step: 34
+Action: Buy 0.0
+Price: 222.91
+Balance: 2658.267374812687
+Shares held: 32.04499830308382
+Avg cost for held shares: 229.10697500273508 
+Net worth: 9801.417946553102
+Profit: -198.5820534468985
+35 55
+Date: 20241104
+Step: 35
+Action: Sell 0.0
+Price: 222.01
+Balance: 2658.267374812687
+Shares held: 32.04499830308382
+Avg cost for held shares: 229.10697500273508 
+Net worth: 9772.577448080327
+Profit: -227.42255191967342
+36 55
+Date: 20241105
+Step: 36
+Action: Sell 0.0
+Price: 223.45
+Balance: 2658.267374812687
+Shares held: 32.04499830308382
+Avg cost for held shares: 229.10697500273508 
+Net worth: 9818.722245636767
+Profit: -181.27775436323282
+37 55
+Date: 20241106
+Step: 37
+Action: Sell 1.0
+Price: 222.72
+Balance: 9818.722245636767
+Shares held: 0.0
+Avg cost for held shares: 0 
+Net worth: 9818.722245636767
+Profit: -181.27775436323282
+38 55
+Date: 20241107
+Step: 38
+Action: Buy 1.0
+Price: 227.48
+Balance: 0.0
+Shares held: 44.08549858852715
+Avg cost for held shares: 226.8319588111091 
+Net worth: 10028.569218918155
+Profit: 28.569218918155457
+39 55
+Date: 20241108
+Step: 39
+Action: Sell 0.0
+Price: 226.96
+Balance: 0.0
+Shares held: 44.08549858852715
+Avg cost for held shares: 226.8319588111091 
+Net worth: 10005.644759652123
+Profit: 5.644759652122957
+40 55
+Date: 20241111
+Step: 40
+Action: Buy 0.0
+Price: 224.23
+Balance: 0.0
+Shares held: 44.08549858852715
+Avg cost for held shares: 226.8319588111091 
+Net worth: 9885.291348505443
+Profit: -114.70865149455676
+41 55
+Date: 20241112
+Step: 41
+Action: Sell 0.0
+Price: 224.23
+Balance: 0.0
+Shares held: 44.08549858852715
+Avg cost for held shares: 226.8319588111091 
+Net worth: 9885.291348505443
+Profit: -114.70865149455676
+42 55
+Date: 20241113
+Step: 42
+Action: Buy 0.0
+Price: 225.12
+Balance: 0.0
+Shares held: 44.08549858852715
+Avg cost for held shares: 226.8319588111091 
+Net worth: 9924.527442249233
+Profit: -75.47255775076701
+43 55
+Date: 20241114
+Step: 43
+Action: Sell 0.0
+Price: 228.22
+Balance: 0.0
+Shares held: 44.08549858852715
+Avg cost for held shares: 226.8319588111091 
+Net worth: 10061.192487873666
+Profit: 61.19248787366632
+44 55
+Date: 20241115
+Step: 44
+Action: Sell 1.0
+Price: 225.0
+Balance: 10061.192487873666
+Shares held: 0.0
+Avg cost for held shares: 0 
+Net worth: 10061.192487873666
+Profit: 61.19248787366632
+45 55
+Date: 20241118
+Step: 45
+Action: Buy 0.7609093189239502
+Price: 228.02
+Balance: 2405.537364362951
+Shares held: 34.02513388226985
+Avg cost for held shares: 223.2015504160719 
+Net worth: 10163.948392198123
+Profit: 163.94839219812275
+46 55
+Date: 20241119
+Step: 46
+Action: Buy 0.7416983842849731
+Price: 228.28
+Balance: 621.3541878778176
+Shares held: 41.849812316113955
+Avg cost for held shares: 224.10245812526628 
+Net worth: 10174.829343400312
+Profit: 174.8293434003117
+47 55
+Date: 20241120
+Step: 47
+Action: Buy 0.0
+Price: 229.0
+Balance: 621.3541878778176
+Shares held: 41.849812316113955
+Avg cost for held shares: 224.10245812526628 
+Net worth: 10204.961208267914
+Profit: 204.96120826791412
+48 55
+Date: 20241121
+Step: 48
+Action: Buy 0.0
+Price: 228.52
+Balance: 621.3541878778176
+Shares held: 41.849812316113955
+Avg cost for held shares: 224.10245812526628 
+Net worth: 10184.873298356179
+Profit: 184.87329835617857
+49 55
+Date: 20241122
+Step: 49
+Action: Sell 0.0
+Price: 229.87
+Balance: 621.3541878778176
+Shares held: 41.849812316113955
+Avg cost for held shares: 224.10245812526628 
+Net worth: 10241.370544982932
+Profit: 241.3705449829322
+50 55
+Date: 20241125
+Step: 50
+Action: Sell 0.09242813289165497
+Price: 232.87
+Balance: 1510.5143381522237
+Shares held: 37.98171230186936
+Avg cost for held shares: 223.51508521720717 
+Net worth: 10355.31568188854
+Profit: 355.31568188854
+51 55
+Date: 20241126
+Step: 51
+Action: Hold 0
+Price: 235.06
+Balance: 1510.5143381522237
+Shares held: 37.98171230186936
+Avg cost for held shares: 223.51508521720717 
+Net worth: 10438.495631829634
+Profit: 438.49563182963357
+52 55
+Date: 20241127
+Step: 52
+Action: Buy 0.0
+Price: 234.93
+Balance: 1510.5143381522237
+Shares held: 37.98171230186936
+Avg cost for held shares: 223.51508521720717 
+Net worth: 10433.558009230392
+Profit: 433.5580092303917
